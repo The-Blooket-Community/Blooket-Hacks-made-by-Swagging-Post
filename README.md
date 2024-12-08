@@ -8,14 +8,7 @@ A reupload, but currently being fixed of my stolen Blooket Cheats.
 <h3 align="center"><a href="https://discord.gg/ZDDcsr9SQZ">Support Server | #tickets </a></h2>
 <h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
 
-## Star History
-<a href="https://star-history.com/#swagging-post/blooket-cheat-gui&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date" />
- </picture>
-</a>
+
 
 ## Information
 
